@@ -58,8 +58,8 @@ Where we are creating a command line interpretor to access objects that will sto
 ----------------------------------------
 
 **Authors**
-- **Mohammed Gamal**, \<https://github.com/M0hammed-Gamal>,
-- **Ahmed Samy**, \<https://github.com/AhmedSamy98>,
+- **Mohammed Gamal**, \<https://github.com/M0hammed-Gamal,
+- **Ahmed Samy**, \<https://github.com/AhmedSamy98,
 
 ----------------------------------------
 
